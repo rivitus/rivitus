@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rivitus
-- 👀 I’m interested in AI and AR
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning about AI
 
 
